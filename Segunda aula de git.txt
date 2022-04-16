@@ -8,3 +8,7 @@ sera que fiz algo de errado.
 a formula condicional esta errada, as celulas estao travadas 
 
 nessa ultima vez deu certo, agora vamos ver se quando atualizar vai funcionar
+usando uma segunda branch
+
+comando git branch - para verificar a branch que está sendo usada
+git checkout para alternar entre as branchs
