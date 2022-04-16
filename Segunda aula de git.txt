@@ -12,3 +12,8 @@ usando uma segunda branch
 
 comando git branch - para verificar a branch que está sendo usada
 git checkout para alternar entre as branchs
+sempre fazer isso anter de usar o merge
+
+git pull ttraz os arquivos da nuvem para a maquina
+
+so depois que utilizamos o merge para atualizar os arquivos da branch master(main)
