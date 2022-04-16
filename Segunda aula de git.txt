@@ -6,3 +6,5 @@ a ultima frase nao foi, por que sera?
 
 sera que fiz algo de errado.
 a formula condicional esta errada, as celulas estao travadas 
+
+nessa ultima vez deu certo, agora vamos ver se quando atualizar vai funcionar
